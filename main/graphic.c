@@ -4,7 +4,7 @@
 
 int main(){
 
-    graphicposition(5,5);
+    graphposition(5,5);
     return 0;
 }
 
