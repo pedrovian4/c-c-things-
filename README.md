@@ -1,4 +1,4 @@
-# files.h
+# graphs.h
  simulating a cartesian graphic 
  
  
