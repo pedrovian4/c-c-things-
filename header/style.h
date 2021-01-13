@@ -15,7 +15,6 @@ int xy (int x, int y){
 
 void graphicposition(int Xposition, int Yposition ){
 
-    int e = Xposition;
     
     xy(0,1); printf("Y\n");
     xy(0,1); printf("^");
