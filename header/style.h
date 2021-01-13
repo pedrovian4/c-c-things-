@@ -13,7 +13,7 @@ int xy (int x, int y){
 
 
 
-void graphicposition(int Xposition, int Yposition ){
+void graphposition(int Xposition, int Yposition ){
 
     
     xy(0,1); printf("Y\n");
