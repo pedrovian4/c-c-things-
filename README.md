@@ -1,5 +1,5 @@
 # graphs.h
- simulating a cartesian graphic 
+ simulating a cartesian graphs
  
  
 This will be an attempt to simulate Cartesian graphs in C and draw the functions, all done without a Graphical User Interface, all in the terminal.
